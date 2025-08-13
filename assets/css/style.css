@@ -1,0 +1,10 @@
+/* Theme */
+:root { --brand:#0d6efd; --bg:#ffffff; --text:#111827; --muted:#6b7280; }
+*{box-sizing:border-box}
+html,body{font-family:'Inter',system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,'Apple Color Emoji','Segoe UI Emoji',sans-serif;color:var(--text);scroll-behavior:smooth}
+.navbar .navbar-brand{letter-spacing:.3px}
+.navbar .nav-link{font-weight:500}
+.hero-section{background:radial-gradient(1200px 600px at 80% -20%, rgba(13,110,253,.12), transparent 60%), radial-gradient(1000px 500px at -10% 10%, rgba(13,110,253,.08), transparent 50%);margin-top:56px}
+.feature:hover{border-color:rgba(13,110,253,.35);box-shadow:0 6px 20px rgba(13,110,253,.08);transition:all .2s ease}
+img{border-radius:.75rem}
+.text-secondary{color:var(--muted)!important}
