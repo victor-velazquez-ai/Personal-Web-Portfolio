@@ -1,5 +1,7 @@
 # Victor Miguel Velazquez Espitia — Portfolio
 
+Link to web Portfolio: https://victor-velazquez-ai.github.io/Personal-Web-Portfolio/
+
 This is a single‑page portfolio site for GitHub Pages
 
 - Update copy in `index.html` as needed.
