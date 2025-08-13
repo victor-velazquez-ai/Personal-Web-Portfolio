@@ -1,6 +1,6 @@
-# Victor Miguel Velazquez Espitia — Portfolio (Prefilled)
+# Victor Miguel Velazquez Espitia — Portfolio
 
-This is a prefilled, single‑page site ready for GitHub Pages.
+This is a single‑page portfolio site for GitHub Pages
 
 - Update copy in `index.html` as needed.
 - Replace placeholder images with your own.
